@@ -34,3 +34,12 @@ Authors' Name (Email id):
 Priyadarshini P. Pai (priyadarshini.pai7@gmail.com)
 Tirtharaj Dash (tirtharaj@goa.bits-pilani.ac.in)
 Sukanta Mondal (suku@goa.bits-pilani.ac.in)
+
+=======================
+Publication Information:
+=======================
+The article has been published at: http://www.sciencedirect.com/science/article/pii/S0022519317300498
+
+Citation:
+---------
+P.P. Pai, T. Dash, S. Mondal, "Sequence-based Discrimination of Protein-RNA Interacting Residues using a Probabilistic Approach", Journal of Theoretical Biology, 2017; Volume 418, 7 April 2017, Pages 77–83; DOI: 10.1016/j.jtbi.2017.01.040; Publisher: Elsevier.
