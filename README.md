@@ -1,6 +1,8 @@
 # ANNOTATE BIOMOLECULES COMPUTATIONALLY (ABC) GROUP #
 # DORAEMON: conDitiOnal pRobabilistic Approach for idEntification of aMino acids interacting with ribONucleic acids #
 # V1.0, 27-Oct-2016 #
+# Alternative link: https://github.com/ABCgrp/DORAEMON #
+# Publishers link: http://www.sciencedirect.com/science/article/pii/S0022519317300498 #
 
 =======================
 Environment of system :
